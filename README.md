@@ -1,1 +1,2 @@
-Repositório para execução das tarefas de Java na SPTech
+# Linguagens de Programação - Java
+Repositório criado para execução das atividades de Java na SPTech
